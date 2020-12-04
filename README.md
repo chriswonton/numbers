@@ -22,4 +22,3 @@ A bash script named “numbers.sh” that will
 ## Instructions
 To run the script with input from the included numbers-input file:
 ./numbers.sh < numbers-input
-
